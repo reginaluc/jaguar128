@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reginaluc.github.io/jaguar128/sitemap.xml
